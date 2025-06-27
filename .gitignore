@@ -1,0 +1,7 @@
+# --- Secrets ---
+# Ignore the file containing environment variables and secret keys.
+.env
+# --- Python Cache ---
+# Ignore the folder Python creates for cached files.
+__pycache__/
+*.pyc
